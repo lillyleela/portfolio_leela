@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
 }
 .bg {
   background:
@@ -19,7 +20,7 @@
 .intro {
   font-size: 60px;
   color: #fff;
-  font-family: "Raleway", sans-serif;
+
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
@@ -31,4 +32,55 @@
 #photo {
   width: 500px;
   height: 500px;
+}
+.about-content h2,
+.project-section h2 {
+  font-size: 48px;
+  color: rgb(85 64 175);
+}
+.about-content h4 {
+  font-weight: 900;
+  line-height: 2.5rem;
+}
+.about-content p {
+  font-size: 20px;
+  line-height: 1.5rem;
+}
+.fa-linkedin,
+.fa-arrow-circle-right {
+  color: rgb(85 64 175);
+}
+.fa-instagram {
+  font-size: 23px;
+  color: rgb(85 64 175);
+}
+.skill-section h2 {
+  font-size: 3.75rem;
+  color: rgb(85 64 175);
+}
+.skill-card {
+  border: none;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.skill-card:hover {
+  background-color: rgb(85 64 175);
+  color: white;
+  transform: translateY(-10px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.skill-card:hover i {
+  color: white;
+}
+.project-section p {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+.card1 img,
+.card2 img {
+  height: 221px;
 }
