@@ -1,16 +1,16 @@
 # portfolio_leela
 
 ## Table of Content:
--[Index].(#Index)
--[About].(#About)
--[skills].(#skills)
--[projects].(#projects)
--[Resume].(#Resume)
--[Contact].(#contact)
--[Footer].(#Footer)
--[Screenshort].(#Screenshort)
--[Links].(#Links)
--[Myprocess].(#Myprocess)
+- [Index](#Index)
+-[About](#About)
+-[skills](#skills)
+-[projects](#projects)
+-[Resume](#Resume)
+-[Contact](#contact)
+-[Footer](#Footer)
+-[Screenshort](#Screenshort)
+-[Links](#Links)
+-[Myprocess](#Myprocess)
 ## Index
 -Added my name and logo and included a tagline.
 ## About
