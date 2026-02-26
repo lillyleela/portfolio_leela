@@ -1,5 +1,6 @@
 # portfolio_leela
-##Table of Content:
+
+## Table of Content:
 -[Index].(#Index)
 -[About].(#About)
 -[skills].(#skills)
@@ -10,29 +11,29 @@
 -[Screenshort].(#Screenshort)
 -[Links].(#Links)
 -[Myprocess].(#Myprocess)
-##Index
+## Index
 -Added my name and logo and included a tagline.
-##About
+## About
 -Inserted image and written a short descritpion about me.
-##skills
+## skills
 -Listed out all my skills and area of expertise.
-##projects
+## projects
 -I have showcased the sample of projects that i have done using modern web technologies.
-##Resume
+## Resume
 I have provided all y details and download resume button for downloading resume.
-##Contact
+## Contact
 I have included my contact details.
-##Footer
+## Footer
 Added a copyright notice.
-##Screenshort
+## Screenshort
 
 <img width="1920" height="899" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c97d154c-0e59-4857-b905-08c2417d5407" />
 
-##Links
+## Links
 - Solution URL: (https://github.com/lillyleela/mortgage)
 - Live Site URL: (https://lillyleela.github.io/mortgage/)
 
-##Myprocess
+## Myprocess
 - Bootstrap grids
 - custom layouts
 - mobile responsive
