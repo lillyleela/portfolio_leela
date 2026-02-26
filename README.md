@@ -31,8 +31,8 @@ Added a copyright notice.
 <img width="1920" height="899" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c97d154c-0e59-4857-b905-08c2417d5407" />
 
 ## Links
-- Solution URL: (https://github.com/lillyleela/mortgage)
-- Live Site URL: (https://lillyleela.github.io/mortgage/)
+- Solution URL: (https://github.com/lillyleela/portfolio_leela)
+- Live Site URL: (https://lillyleela.github.io/portfolio_leela/)
 
 ## Myprocess
 - Bootstrap grids
