@@ -4,10 +4,23 @@
   box-sizing: border-box;
   font-family: "Raleway", sans-serif;
 }
+.navbar {
+  background-color: rgb(85 64 175);
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 900;
+  cursor: pointer;
+  border: 4px solid #fff;
+  padding: 5px;
+}
+.navbar-nav li a {
+  font-size: 20px;
+  font-weight: 900px;
+}
 .bg {
   background:
-    linear-gradient(180deg, #5a4bb7 0%, #6456c6 50%, #6a5acd 100%),
-    url("../images/bg-hero.jpg");
+    linear-gradient(180deg, rgb(85 64 175)), url("../images/bg-hero.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -54,7 +67,8 @@
   font-size: 23px;
   color: rgb(85 64 175);
 }
-.skill-section h2 {
+.skill-section h2,
+.resume-section h2 {
   font-size: 3.75rem;
   color: rgb(85 64 175);
 }
@@ -83,4 +97,59 @@
 .card1 img,
 .card2 img {
   height: 221px;
+}
+.resume-section-item {
+  padding: 0 0 20px 20px;
+  margin-top: -2px;
+  border-left: 2px solid rgb(85 64 175);
+  position: relative;
+}
+.resume-section-item::before {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  left: -11px;
+  top: 0px;
+  background-color: #fff;
+  border: 2px solid rgb(85 64 175);
+}
+.resume-section-item .year {
+  background: rgb(236, 234, 241);
+  color: rgb(85 64 175);
+  padding: 10px;
+  display: inline-block;
+}
+.download-btn {
+  background-color: rgb(85 64 175);
+  color: #fff;
+  border-radius: 21px;
+  padding: 10px 15px 10px 15px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.download-btn:hover,
+.contact-card {
+  background-color: rgb(85 64 175);
+  color: #fff;
+}
+.contact-num,
+.contact-mail {
+  text-decoration: none;
+  color: #fff;
+}
+.footer {
+  background-color: rgb(85 64 175);
+  padding: 10px;
+  color: #fff;
+}
+@media (min-width: 300px) and (max-width: 900px) {
+  .profile-photo {
+    height: 200px;
+    width: 200px;
+  }
+  .logo-head {
+    font-size: 50px;
+  }
 }
