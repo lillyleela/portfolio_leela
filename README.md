@@ -27,8 +27,7 @@ I have included my contact details.
 ## Footer
 Added a copyright notice.
 ## Screenshort
-
-<img width="1920" height="899" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c97d154c-0e59-4857-b905-08c2417d5407" />
+<img width="1891" height="902" alt="image" src="https://github.com/user-attachments/assets/5e837bbb-38e2-4172-a033-890115037de0" />
 
 ## Links
 - Solution URL: (https://github.com/lillyleela/portfolio_leela)
